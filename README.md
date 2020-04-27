@@ -17,6 +17,7 @@ Content4 | Content5 | Content6
 [Handong Global University](http://handong.edu)
 
 
-
-
-I am Minseok and added this text
+* NEW ORDER
+  * ShinChiho
+  * AnSungHyun
+  * MinseokSong
