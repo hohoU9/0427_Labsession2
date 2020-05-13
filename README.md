@@ -1,23 +1,16 @@
-# *This is the Labsession on April, 27th*
+# *This is the Midterm assignment on May, 14th*
 
-* The order
-  * This is the first
-  * This is the second
-  * This is the third
+### My favorite menu
+  * Dim sum
+  * Chicken
+  * pork belly
   
-First Column | Seoncd Column | Third Column
------------- | ------------- | ------------
-Content1 | Content2 | Content3
-Content4 | Content5 | Content6
-
-
-## Reference 
+### The best liberal arts class that I take in Handong
+  * The philosophy of modern science and technology - prof. Wha-Chul Son
+  * Introduction to Politics - prof. Min-ho Ma
+  * Linear Algebra - prof. Seong-Ok Kim
+  
+### Reference 
 [GitHub](http://github.com)
-
+[Chiho's github](http://github.com/hohoU9)
 [Handong Global University](http://handong.edu)
-
-
-* NEW ORDER
-  * ShinChiho
-  * AnSungHyun
-  * MinseokSong
